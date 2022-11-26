@@ -1,0 +1,71 @@
+.stylinglogo{height: 60px;
+width:120px;}
+#gool{background-color: red;
+color:white;
+padding:5px 10px;
+border-radius: 5px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+border: -px;
+margin-left: 20px;}
+.navbar12{background-color: white;
+color:black;}
+.body{background-color: white;
+color:black}
+#go{color: black;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+border: 0px;}
+#go:hover{color:#c90202;}
+#gool:hover{background-color: grey;
+color:red;}
+.bgimg{background-image: url("https://res.cloudinary.com/dxujeg5en/image/upload/v1669302394/modified-mazda-4k-4t_rfmpjx.jpg");
+    
+    background-size: cover;
+    height: 80vh;
+}
+.head1{font-size: 40px;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+color:white;}
+.paraline{color:#f5f7fa;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 24px;
+font-weight: bold;}
+.buttonstyle{color:white;
+background-color: red;
+width:230px;
+height: 45px;
+border-width: 0px;
+border-radius: 8px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;}24px
+.bgcolor{background-color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 28px;}
+.carding{text-align: center;
+background: #ffffff;
+border-style: solid;
+border-width: 1px;
+border-color: #e5eaf4;
+border-radius: 16px;}
+.chead{font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;}
+.imaggi2{width:87px;
+height:50px;
+}
+.para2{color:#5a7184;
+font-family:Arial, Helvetica, sans-serif ;
+font-size: 16px;}
+.chead{color:#183b56;
+font-family: Arial, Helvetica, sans-serif;
+font-size:28px ;
+font-family: 700;}
+.offers{color:#323f4b;
+font-style: italic;
+font-weight: 600;}
+
+
+
+
